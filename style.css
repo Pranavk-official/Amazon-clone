@@ -260,11 +260,15 @@ ul a{
     align-items: center;
 }
 
+.foot-logo {
+    height: 50px;
+    width: 100px;
+}
+
+
 .logo-foot {
     background-image: url("./static/img/amazon-logo.png");
     background-size: cover;
-    width: 150px;
-    height: 100%;
 }
 
 .foot-panel4 {
@@ -285,4 +289,9 @@ ul a{
 .copyright {
     font-size: 0.7rem;   
     padding-top: 10px;
+}
+
+
+@media all and (max-width: 500px) {
+
 }
