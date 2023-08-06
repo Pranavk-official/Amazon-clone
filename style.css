@@ -21,7 +21,7 @@
 }
 
 .logo {
-    background-image: url("/static/img/amazon-logo.png");
+    background-image: url("https://pranavk-official.github.io/Amazon-clone/static/img/amazon-logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -154,7 +154,7 @@ span {
 /* Hero Section */
 
 .hero-section {
-    background-image: url(/static/img/hero-image.jpg);
+    background-image: url("https://pranavk-official.github.io/Amazon-clone/static/img/hero-image.jpg");
     background-size: cover;
     height: 400px;
     display: flex;
@@ -261,7 +261,7 @@ ul a{
 }
 
 .logo-foot {
-    background-image: url("/static/img/amazon-logo.png");
+    background-image: url("https://pranavk-official.github.io/Amazon-clone/static/img/amazon-logo.png");
     background-size: cover;
     width: 100%;
 }
