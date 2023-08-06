@@ -234,7 +234,7 @@ footer {
 .foot-panel2 {
     background-color: #222f3d;
     color: white;
-    height: 500px;
+    height: 220px;
     display: flex;
     justify-content: space-evenly;
 }
@@ -263,5 +263,26 @@ ul a{
 .logo-foot {
     background-image: url("./static/img/amazon-logo.png");
     background-size: cover;
-    width: 100%;
+    width: 150px;
+    height: 100%;
+}
+
+.foot-panel4 {
+    background-color: #0F1111;
+    color: white;
+    height: 80px;
+    text-align: center;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.pages {
+    font-size: 0.7rem;   
+    padding-top: 25px;
+}
+
+.copyright {
+    font-size: 0.7rem;   
+    padding-top: 10px;
 }
